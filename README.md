@@ -40,6 +40,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [E-commerce](#e-commerce)
     - [Editor Plugins and IDEs](#editor-plugins-and-ides)
     - [Email](#email)
+    - [Enterprise Application Integrations](#enterprise-application-integrations)
     - [Environment Management](#environment-management)
     - [Files](#files)
     - [Foreign Function Interface](#foreign-function-interface)
@@ -599,6 +600,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [flanker](https://github.com/mailgun/flanker) - An email address and Mime parsing library.
     * [mailer](https://github.com/marrow/mailer) - High-performance extensible mail delivery framework.
 
+## Enterprise Application Integrations
+
+*Platforms and tools for systems integrations in enterprise environments*
+
+* [Zato](https://zato.io) - ESB, SOA, REST, APIs and Cloud Integrations in Python.
+
 ## Environment Management
 
 *Libraries for Python version and virtual environment management.*
@@ -647,7 +654,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP.
 * [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools.
 * [more-itertools](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
-* [returns](https://github.com/dry-python/returns) - A set of type-safe monads, tranformers, and composition utilities.
+* [returns](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
 * [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
 
 ## GUI Development
@@ -1167,7 +1174,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [VCR.py](https://github.com/kevin1024/vcrpy) - Record and replay HTTP interactions on your tests.
 * Object Factories
     * [factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python.
-    * [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supported Django, Flask, SQLAlchemy, Peewee and etc.
+    * [mixer](https://github.com/klen/mixer) - Another fixtures replacement. Supports Django, Flask, SQLAlchemy, Peewee and etc.
     * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 * Code Coverage
     * [coverage](https://pypi.org/project/coverage/) - Code coverage measurement.
@@ -1317,6 +1324,7 @@ Where to discover learning resources or new Python libraries.
 ## Books
 
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
+- [Think Python](https://greenteapress.com/wp/think-python-2e/)
 
 ## Websites
 
